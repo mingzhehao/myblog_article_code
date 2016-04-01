@@ -1,4 +1,3 @@
-myblog_article_code
-===================
+fork此git原因 我想php rsa 和 go rsa 交互验证
 
-http://blog.studygolang.com 中文章实例的源代码
+对rsa目录下的rsa.go进行调整，base64转换
